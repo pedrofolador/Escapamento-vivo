@@ -5,7 +5,7 @@ export const perguntas = [
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
-                    
+                    ""
                 ],
                 proxima: 1,
             },
