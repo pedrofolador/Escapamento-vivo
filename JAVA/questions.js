@@ -100,53 +100,70 @@ export const perguntas = [
             {
                 texto: "Você tem uma escolha?",
                 afirmacao: [
-                    "Morreu de forma injusta, mas não sozinho."
+                    "Morreu de forma injusta, mas não sozinho. STATUS: Morto."
                 ],
                 
             },
             {
                 texto: "Você tem uma escolha?",
                 afirmacao: [
-                    "Morreu de forma injusta, mas não sozinho."
+                    "Morreu de forma injusta, mas não sozinho. STATUS: Morto."
                 ],
                 
             },
         ]
     },
     {
-        enunciado: "Uma parede",
+        enunciado: "Sua sorte te salvou mais uma vez. Algo passou pelas árvores, correndo acima de tudo em seu caminho. Isso inclui o seu pequeno 'amigo' que te perseguiu, o levando também. Agora, da sua frente, há uma grande parede, alta o bastante para cobrir sua visão, mesmo depois de você olhar para cima. Tem uma porta a direita, alguns quilômetros dai.",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Andar a direita discretamente, sendo calmo.",
                 afirmacao: [
-                    ""
+                    "Cuidadoso, até demais, mas salvou sua pele o bastante."
                 ],
-                proxima: 7,
+                proxima: 8,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Ir a direita sem precaução, pois você não tem nada a temer.",
                 afirmacao: [
-                    ""
+                    "Completo idiota."
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "As torretas já ativaram. Seu corpo ficou cheio de balas em questões de segundos. Foi um erro ter saído de seu lar.",
+        enunciado: "As torretas ativaram. Seu corpo ficou cheio de balas em questões de segundos. Foi um erro ter saído de seu lar.",
         alternativas: [
             {
                 texto: "Você tem uma escolha?",
                 afirmacao: [
-                    "████ pensou que poderia ter um final feliz."
+                    "████ pensou que poderia ter um final feliz. STATUS: Morto."
                 ],
             },
             {
                 texto: "Você tem uma escolha?",
                 afirmacao: [
-                    "████ pensou que poderia ter um final feliz"
+                    "████ pensou que poderia ter um final feliz. STATUS: Morto."
                 ],
             },
+        ]
+    }
+    {
+        enunciado: "A porta está ai, para ser aberta. Existe duas torretas acima, mas elas não podem te ver. Um paço afrente, pois sua curiosidade te chama. Você não pensa duas vezes, e abre a porta, a fechando atrás de você mesmo.",
+        alternativas: [
+            {
+                texto: "Você tem uma outra escolha?",
+                afirmacao: [
+                    "STATUS: Vivo"
+            ]
+            }
+            {
+                texto: "Você tem uma outra escolha?",
+                afirmacao: [
+                    "STATUS: Vivo"
+            ]
+            }
         ]
     }
 ];
