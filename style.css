@@ -9,7 +9,6 @@
 
 body {
     background-image: "img/brick.png";
-    background-color: var(--cor-fundo);
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
