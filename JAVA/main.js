@@ -59,7 +59,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = `Em 2049, ${nome}`;
+    caixaPerguntas.textContent = `REPORT 19-B. 1963, 2 DE JULHO.`;
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
     caixaResultado.classList.add("mostrar");
