@@ -33,7 +33,7 @@ export const perguntas = [
                 afirmacao: [
                     "█████ adorava ver dor, especialmente as dos outros. Egoismo que não acaba mais."
                 ],
-                proxima: 4,
+                proxima: 3,
             },
         ]
     },
@@ -45,7 +45,7 @@ export const perguntas = [
                 afirmacao: [
                     "Prefiriu abandonar amigos para o bem de outros. Honorável pelas razões erradas."
                 ],
-                proxima: 3,
+                proxima: 4,
             },
             {
                 texto: "De honra a pessoa morta.",
@@ -57,64 +57,64 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Tem uma parede enorme na sua frente. Vista a quilômetros de distância. Tem uma porta be na base, com duas torretas olhando de lado a outro, enferrugadas mas ainda funcionando.",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Caminhar até elas com calma.",
                 afirmacao: [
-                    ""
-                ],
-                proxima: 5,
-            },
-            {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: [
-                    ""
-                ],
-                proxima: 6,
-            },
-        ]
-    },
-    {
-        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
-        alternativas: [
-            {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: [
-                    ""
-                ],
-                proxima: 5,
-            },
-            {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: [
-                    ""
-                ],
-                proxima: 6,
-            },
-        ]
-    },
-    {
-        enunciado: "Novas tecnologias trazem novos desafios, por isso após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
-        alternativas: [
-            {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: [
-                    ""
+                    "Achou que tinha uma escolha."
                 ],
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Correr para passar pela porta.",
                 afirmacao: [
-                    ""
+                    "Aceitou a morte que veio."
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "É muito importante refletir sobre os trabalhadores do futuro. Por isso a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Um grito é ouvido na floresta, em algum local entre as árvores. Um sentimento primordial dentro de você te fala que está sendo visto, mas você não sabe da onde. Em segundos, passos aceleram até você correndo entre as folhas mortas.",
+        alternativas: [
+            {
+                texto: "Correr para esquerda.",
+                afirmacao: [
+                    "████ nunca foi bom em decisôes."
+                ],
+                proxima: 5,
+            },
+            {
+                texto: "Correr para a direita.",
+                afirmacao: [
+                    "████ trabalha mal em situações de alta pressão."
+                ],
+                proxima: 6,
+            },
+        ]
+    },
+    {
+        enunciado: "Você cai em uma armadilha escondida por folhas. Em meio segundo, tudo fica devagar. O tempo pareçe estar em camera lenta em sua vista. Espinhos de madeira estão no final desse buraco, colocados para cima em esperança de ter algo cair em cima. Depois de cair, seu corpo dói, mas continua vivo. Nos últimos segundos, você pode ver uma figura rindo de sua situação, olhando para baixo, diretamente acima do buraco.",
+        alternativas: [
+            {
+                texto: "Você tem uma escolha?",
+                afirmacao: [
+                    "Morreu de forma injusta, mas não sozinho."
+                ],
+                
+            },
+            {
+                texto: "Você tem uma escolha?",
+                afirmacao: [
+                    "Morreu de forma injusta, mas não sozinho."
+                ],
+                
+            },
+        ]
+    },
+    {
+        enunciado: "Uma parede",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
@@ -142,7 +142,7 @@ export const perguntas = [
                 ],
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Você tem uma escolha?",
                 afirmacao: [
                     "████ pensou que poderia ter um final feliz"
                 ],
