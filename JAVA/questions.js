@@ -148,7 +148,7 @@ export const perguntas = [
                 ],
             },
         ]
-    }
+    },
     {
         enunciado: "A porta está ai, para ser aberta. Existe duas torretas acima, mas elas não podem te ver. Um paço afrente, pois sua curiosidade te chama. Você não pensa duas vezes, e abre a porta, a fechando atrás de você mesmo.",
         alternativas: [
@@ -156,14 +156,14 @@ export const perguntas = [
                 texto: "Você tem uma outra escolha?",
                 afirmacao: [
                     "STATUS: Vivo"
-            ]
-            }
+                ]
+            },
             {
                 texto: "Você tem uma outra escolha?",
                 afirmacao: [
                     "STATUS: Vivo"
-            ]
-            }
+                ]
+            },
         ]
-    }
+    },
 ];
