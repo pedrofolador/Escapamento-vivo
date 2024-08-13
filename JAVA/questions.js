@@ -133,18 +133,18 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "As torretas já ativaram. Seu corpo ficou cheio de balas em questões de segundos. Foi um erro ter saído de seu lar.",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Você tem uma escolha?",
                 afirmacao: [
-                    ""
+                    "████ pensou que poderia ter um final feliz."
                 ],
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
                 afirmacao: [
-                    ""
+                    "████ pensou que poderia ter um final feliz"
                 ],
             },
         ]
