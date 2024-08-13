@@ -1,56 +1,56 @@
 export const perguntas = [
     {
-        enunciado: "O sol está quente. Até demais. O primeiro feixo de luz que bateu em seu ",
+        enunciado: "O sol está quente. Até demais. O primeiro feixo de luz que bate o seu rosto em quase uma década. Ou, pelo menos é o que você pensa. Apesar de tudo, você ainda se lembra dos caminhos afrente, e como eles te levam pela foresta. Igual a suas escolhas pasadas, redundantes, pois os dois te levarão ao mesmo local.",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Ir pelo caminho limpo.",
                 afirmacao: [
-                    ""
+                    "█████ foi um covarde. Desgraça a raça humana."
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Ir pelo caminho denso.",
                 afirmacao: [
-                    ""
+                    "█████ tinha coragem ínutil. Algo que o levou a nada."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Um coelho está na sua frente. Preso em uma armadilha de urso não feita para ele. Sua perna esta quebrada, sangrando, mas ainda vivo. Salva-lo não ira te trazer nada, pois ele vai morrer de uma forma ou outra. Seja sangrando aqui, ou para fora.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Liberte-o.",
                 afirmacao: [
-                    ""
+                    "█████ odiava dor, seja em si ou em outros. Sacrificou tempo para se satisfazer."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Abandone-o.",
                 afirmacao: [
-                    ""
+                    "█████ adorava ver dor, especialmente as dos outros. Egoismo que não acaba mais."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Seus passos finalmente te levou a um lugar inqueto. Tem um corpo na sua frente, e animais estão pegando os nutrientes nescessários para sua própria sobrevivência. Você não sente nada pelo corpo (mesmo o reconhecendo), mas uma parte de sua mente te deseja que faça o que você deseja.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Deixe a floresta o conquistar.",
                 afirmacao: [
-                    ""
+                    "Prefiriu abandonar amigos para o bem de outros. Honorável pelas razões erradas."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "De honra a pessoa morta.",
                 afirmacao: [
-                    ""
+                    "Colocou amigos acima de outros. Muito honorável para seu próprio bem."
                 ],
                 proxima: 4,
             },
